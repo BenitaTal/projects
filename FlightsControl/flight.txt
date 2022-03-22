@@ -1,0 +1,14 @@
+Total flights: 12
+
+Flight number: XHA7Z2BA	of Airline: El Al | Departure-->Barajas-Madrid-Spain- |in gate: A1 at 2021 MAY 14 | Current status: OnTime
+Flight number: B4KLE2FN	of Airline: Air France | Arrival-->Charles de Gaulle-Paris-France- |in gate: B5 at 2021 JUNE 26 | Current status: OnTime
+Flight number: T0OR8MM8	of Airline: Air India | Departure-->Indira Gandhi-Delhi-India- |in gate: C2 at 2021 JANUARY 10 | Current status: OnTime
+Flight number: 1F3VJTXM	of Airline: Turkish Airlines | Departure-->Istanbul-Istanbul-Turkey- |in gate: A2 at 2021 APRIL 10 | Current status: OnTime
+Flight number: YQPH5OGU	of Airline: Air Canada | Arrival-->Pearson-Toronto-Canada- |in gate: B2 at 2021 MARCH 28 | Current status: OnTime
+Flight number: ZEFQGQD5	of Airline: Thai Airways | Arrival-->Suvarnabhumi -Bangkok-Thailand- |in gate: C1 at 2021 AUGUST 16 | Current status: OnTime
+Flight number: NWCGYTVK	of Airline: Pegasus Airlines | Departure-->Eleftherios Venizelos-Athens-Greece- |in gate: C3 at 2021 OCTOBER 10 | Current status: OnTime
+Flight number: 6JSXCEVX	of Airline: Israir | Arrival-->Aeroporto Leonardo da Vinci di Fiumicino-Rome-Italy- |in gate: A3 at 2021 DECEMBER 3 | Current status: OnTime
+Flight number: BQOEDYT5	of Airline: Vietnam Airlines | Departure-->Noi Bai-Hanoi-Vietnam- |in gate: B3 at 2021 JULY 28 | Current status: OnTime
+Flight number: GW0UGJLS	of Airline: El Al | Departure-->Vienna-Vienna-Austria- |in gate: A1 at 2021 FEBRUARY 7 | Current status: OnTime
+Flight number: AOFMRWE0	of Airline: Turkish Airlines | Arrival-->JFK-New York-United States- |in gate: B1 at 2021 APRIL 15 | Current status: OnTime
+Flight number: USWMPY9K	of Airline: El Al | Departure-->Heathrow-London-England- |in gate: B17 at 2021 MAY 19 | Current status: OnTime
